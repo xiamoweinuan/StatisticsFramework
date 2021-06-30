@@ -1,0 +1,6 @@
+framework module Statistics {
+  umbrella header "Statistics.h"
+
+  export *
+  module * { export * }
+}
